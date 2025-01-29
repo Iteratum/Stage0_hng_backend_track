@@ -10,4 +10,10 @@ Run `fastapi dev main.py`.
 
 This project is involves creating an api that accepts a get request and returns a json response.
 
-https://hng.tech/hire/python-developers
+### Others
+
+Endpoint URL - https://stage0-hng-backend-track-1.onrender.com/
+Request/response format - Json
+
+
+Backlink - https://hng.tech/hire/python-developers
